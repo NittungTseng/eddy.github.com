@@ -1,6 +1,6 @@
 ## Welcome to Eddy's GitHub Pages
 
-Hi everyone , i'm Eddy ,this's my fist Github homePage.
+Hi everyone , i'm Eddy ,this's my first Github homePage.
 
 ### building...
 
